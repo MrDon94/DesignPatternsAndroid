@@ -1,9 +1,35 @@
 import com.github.designpatternsandroid.Message
+import com.github.designpatternsandroid.model.PatternInfo
 
 /**
  * SampleData for Jetpack Compose Tutorial 
  */
 object SampleData {
+    //样本模式数据
+    val patternSample = listOf(
+        PatternInfo("单例模式", true, 1),
+        PatternInfo("工厂模式", true, 1),
+        PatternInfo("建造者模式", true, 1),
+        PatternInfo("原型模式", false, 1),
+        PatternInfo("代理模式", true, 2),
+        PatternInfo("桥接模式", true, 2),
+        PatternInfo("装饰者模式", true, 2),
+        PatternInfo("适配器模式", true, 2),
+        PatternInfo("门面模式", false, 2),
+        PatternInfo("组合模式", false, 2),
+        PatternInfo("享元模式", false, 2),
+        PatternInfo("观察者模式", true, 3),
+        PatternInfo("模板模式", true, 3),
+        PatternInfo("策略模式", true, 3),
+        PatternInfo("职责链模式", true, 3),
+        PatternInfo("迭代器模式", true, 3),
+        PatternInfo("状态模式", true, 3),
+        PatternInfo("访问者模式", false, 3),
+        PatternInfo("备忘录模式", false, 3),
+        PatternInfo("命令模式", false, 3),
+        PatternInfo("解释器模式", false, 3),
+        PatternInfo("中介模式", false, 3),
+    )
     // Sample conversation data
     val conversationSample = listOf(
         Message(
