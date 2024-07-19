@@ -1,4 +1,4 @@
-package com.github.designpatternsandroid.pattern.create;
+package com.github.designpatternsandroid.pattern.create.singleton;
 
 import java.util.concurrent.atomic.AtomicLong;
 
