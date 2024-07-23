@@ -7,8 +7,9 @@ import java.lang.reflect.Proxy;
 /**
  * @author: cd
  * @projectName: DesignPatternsAndroid
- * @description: 动态代理：不事先为每个原始类编写代理类，而是在运行的时候，动态地创建原始类对应的代理类，然后在系统中用代理类替换掉原始类。
- * 适用场景：需要修改大量的原始类时就使用动态代理
+ * @description: 动态代理
+ * 适用场景：需要给大量的原始类附加功能时就使用动态代理
+ * 原理：不事先为每个原始类编写代理类，而是在运行的时候，动态地创建原始类对应的代理类，然后在系统中用代理类替换掉原始类。
  * @date: 2024/7/23 10:27
  */
 public class MetricsCollectorProxy {
