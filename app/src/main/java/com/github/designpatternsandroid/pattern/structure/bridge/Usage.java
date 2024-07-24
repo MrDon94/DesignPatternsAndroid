@@ -13,6 +13,7 @@ import java.util.List;
  */
 public class Usage {
     public static void main(String[] args) {
+        //使用方式1
         AlertRule rule = new AlertRule();
         List<String> emails = new ArrayList<>();
         emails.add("xxx@qq.com");

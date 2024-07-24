@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * @author: cd
  * @projectName: DesignPatternsAndroid
- * @description: 单例模式4。静态内部类
+ * @description: 单例模式4.静态内部类
  * 利用 Java 的静态内部类来实现单例。这种实现方式，既支持延迟加载，也支持高并发，实现起来也比双重检测简单。
  * @date: 2024/7/18 15:39
  */
