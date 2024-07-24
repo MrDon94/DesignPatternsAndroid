@@ -20,8 +20,8 @@
   * [动态代理][metricscollectorproxy.java]
 * ### 桥接模式
   * [桥接模式][bridgeusage]
-* ### 装饰者模式
-  * [装饰者模式][adecorator.java]
+* ### 装饰器模式
+  * [装饰器模式][adecorator.java]
 * ### 适配器模式
   * [类适配器][classadaptor.java](基于继承)
   * [对象适配器][objectadaptor.java](基于组合)
