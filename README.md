@@ -26,6 +26,7 @@
   * [类适配器][classadaptor.java](基于继承)
   * [对象适配器][objectadaptor.java](基于组合)
 * ### 门面模式
+  * [门面模式][orderfacade.java]
 * ### 组合模式
 * ### 享元模式
 * ### 观察者模式
@@ -65,3 +66,5 @@
 
 [classadaptor.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/adapter/ClassAdaptor.java
 [objectadaptor.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/adapter/ObjectAdaptor.java
+
+[orderfacade.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/facade/OrderFacade.java
