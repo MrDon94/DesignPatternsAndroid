@@ -28,6 +28,7 @@
 * ### 门面模式
   * [门面模式][orderfacade.java]
 * ### 组合模式
+  * [组合模式][compositeusage.java]
 * ### 享元模式
 * ### 观察者模式
 * ### 模板模式
@@ -68,3 +69,5 @@
 [objectadaptor.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/adapter/ObjectAdaptor.java
 
 [orderfacade.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/facade/OrderFacade.java
+
+[compositeusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/composite/Usage.java
