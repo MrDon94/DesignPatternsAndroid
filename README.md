@@ -30,6 +30,7 @@
 * ### 组合模式
   * [组合模式][compositeusage.java]
 * ### 享元模式
+  * [享元模式][chesspieceunit.java]
 * ### 观察者模式
 * ### 模板模式
 * ### 策略模式
@@ -71,3 +72,5 @@
 [orderfacade.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/facade/OrderFacade.java
 
 [compositeusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/composite/Usage.java
+
+[chesspieceunit.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/flyweight/ChessPieceUnit.java
