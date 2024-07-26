@@ -32,6 +32,7 @@
 * ### 享元模式
   * [享元模式][chesspieceunit.java]
 * ### 观察者模式
+  * [观察者模式][observerusage.java]
 * ### 模板模式
 * ### 策略模式
 * ### 职责链模式
@@ -74,3 +75,5 @@
 [compositeusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/composite/Usage.java
 
 [chesspieceunit.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/structure/flyweight/ChessPieceUnit.java
+
+[observerusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/observer/Usage.java

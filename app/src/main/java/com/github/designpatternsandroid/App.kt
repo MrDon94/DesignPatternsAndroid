@@ -6,6 +6,7 @@ import android.app.Application
  * @author: cd
  * @projectName: DesignPatternsAndroid
  * @description: 23种设计模式
+ * 创建型设计模式主要解决“对象的创建”问题，结构型设计模式主要解决“类或对象的组合或组装”问题，那行为型设计模式主要解决的就是“类或对象之间的交互”问题。
  * 创建型：
  *      常用：
  *          单例模式
