@@ -4,7 +4,7 @@ package com.github.designpatternsandroid.pattern.structure.flyweight;
  * @author: cd
  * @projectName: DesignPatternsAndroid
  * @description: 享元类
- * 享元模式：享元模式的意图是复用对象，节省内存，前提是享元对象是不可变对象。
+ * 享元模式：所谓“享元”，顾名思义就是被共享的单元，享元模式的意图是复用对象，节省内存，前提是享元对象是不可变对象。
  * 享元模式和单例、缓存、对象池区别：
  *      应用单例模式是为了保证对象全局唯一。
  *      应用享元模式是为了实现对象复用，节省内存。
