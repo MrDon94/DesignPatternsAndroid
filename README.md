@@ -36,6 +36,7 @@
 * ### 模板模式
   * [模板模式][abstractclass.java]
 * ### 策略模式
+  * [策略模式][strategyusage.java]
 * ### 职责链模式
 * ### 迭代器模式
 * ### 状态模式
@@ -80,3 +81,5 @@
 [observerusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/observer/Usage.java
 
 [abstractclass.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/template/AbstractClass.java
+
+[strategyusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/strategy/Usage.java
