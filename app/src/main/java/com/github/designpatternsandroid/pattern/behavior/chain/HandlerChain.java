@@ -3,7 +3,7 @@ package com.github.designpatternsandroid.pattern.behavior.chain;
 /**
  * @author: cd
  * @projectName: DesignPatternsAndroid
- * @description: 链表形式
+ * @description: 处理器链：链表形式
  * @date: 2024/7/31 9:20
  */
 public class HandlerChain {

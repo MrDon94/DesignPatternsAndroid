@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author: cd
  * @projectName: DesignPatternsAndroid
- * @description: 数组形式
+ * @description: 处理器链：数组形式
  * @date: 2024/7/31 9:25
  */
 public class HandlerChain2 {
