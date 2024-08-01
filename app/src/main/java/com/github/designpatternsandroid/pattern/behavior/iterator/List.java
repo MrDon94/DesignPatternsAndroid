@@ -7,5 +7,5 @@ package com.github.designpatternsandroid.pattern.behavior.iterator;
  * @date: 2024/8/1 11:34
  */
 public interface List<E> {
-    Iterator iterator();
+    Iterator<E> iterator();
 }
