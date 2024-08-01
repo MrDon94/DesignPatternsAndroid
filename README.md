@@ -41,6 +41,7 @@
   * [职责链模式][chainusage.java]
 * ### 迭代器模式
 * ### 状态模式
+  * [状态模式][stateusage.java]
 * ### 访问者模式
 * ### 备忘录模式
 * ### 命令模式
@@ -84,4 +85,7 @@
 [abstractclass.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/template/AbstractClass.java
 
 [strategyusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/strategy/Usage.java
+
 [chainusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/chain/Usage.java
+
+[stateusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/state/Usage.java
