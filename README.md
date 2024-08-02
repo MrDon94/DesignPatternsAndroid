@@ -44,6 +44,7 @@
 * ### 状态模式
   * [状态模式][stateusage.java]
 * ### 访问者模式
+  * [访问者模式][visitorusage.java]
 * ### 备忘录模式
 * ### 命令模式
 * ### 解释器模式
@@ -92,3 +93,5 @@
 [stateusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/state/Usage.java
 
 [iteratorusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/iterator/Usage.java
+
+[visitorusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/Usage.java
