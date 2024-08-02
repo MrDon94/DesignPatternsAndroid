@@ -45,6 +45,7 @@
   * [状态模式][stateusage.java]
 * ### 访问者模式
   * [访问者模式][visitorusage.java]
+  * 补充理解：[为什么支持双分派的语言不需要访问者模式？][dispatchusage.java]
 * ### 备忘录模式
 * ### 命令模式
 * ### 解释器模式
@@ -95,3 +96,4 @@
 [iteratorusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/iterator/Usage.java
 
 [visitorusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/Usage.java
+[dispatchusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/dispatch/Usage.java
