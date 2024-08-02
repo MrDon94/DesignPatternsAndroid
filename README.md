@@ -45,7 +45,7 @@
   * [状态模式][stateusage.java]
 * ### 访问者模式
   * [访问者模式][visitorusage.java]
-  * 补充理解：[为什么支持双分派的语言不需要访问者模式？][dispatchusage.java]
+  * [为什么支持双分派的语言不需要访问者模式？][dispatchusage.java](补充理解)
 * ### 备忘录模式
 * ### 命令模式
 * ### 解释器模式
