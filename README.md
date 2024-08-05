@@ -47,6 +47,7 @@
   * [访问者模式][visitorusage.java]
   * [为什么支持双分派的语言不需要访问者模式？][dispatchusage.java](补充理解)
 * ### 备忘录模式
+  * [备忘录模式][mementousage.java]
 * ### 命令模式
 * ### 解释器模式
 * ### 中介模式
@@ -97,3 +98,5 @@
 
 [visitorusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/Usage.java
 [dispatchusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/dispatch/Usage.java
+
+[mementousage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/memento/Usage.java
