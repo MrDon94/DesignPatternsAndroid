@@ -49,6 +49,7 @@
 * ### 备忘录模式
   * [备忘录模式][mementousage.java]
 * ### 命令模式
+  * [命令模式][gameapplication.java]
 * ### 解释器模式
 * ### 中介模式
 
@@ -100,3 +101,5 @@
 [dispatchusage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/visitor/dispatch/Usage.java
 
 [mementousage.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/memento/Usage.java
+
+[gameapplication.java]:https://github.com/MrDon94/DesignPatternsAndroid/blob/master/app/src/main/java/com/github/designpatternsandroid/pattern/behavior/command/GameApplication.java
